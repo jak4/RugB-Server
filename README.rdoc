@@ -1,28 +1,6 @@
-== README
+RugB-Presentation 05.09.2013 - MobileApp Development with HTML/CSS/JS using RoR, Sinatra, Phonegap, Ripple, GruntJS and Coffeescript
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails Server for MobileApp-Dev
 
-Things you may want to cover:
+To demonstrate how to forward from the 'Mobile App'-Sinatra-Client to a Backend-Server. Works around Cross-Domain-Scripting protection by adding specific before and after filters.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
